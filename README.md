@@ -1,9 +1,9 @@
 
 # 🚀 Chrome extension to display GitNotify tracker on GitHub
 
-<!--
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.svg)](https://chrome.google.com/webstore/detail/gitnotify-for-github/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/d/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.svg)](https://chrome.google.com/webstore/detail/gitnotify-for-github/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa) -->
+
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ednpeaemdkcilannlfkbmcjdnjoljhbj.svg)](https://chrome.google.com/webstore/detail/gitnotify-for-github/ednpeaemdkcilannlfkbmcjdnjoljhbj)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/d/ednpeaemdkcilannlfkbmcjdnjoljhbj.svg)](https://chrome.google.com/webstore/detail/gitnotify-for-github/ednpeaemdkcilannlfkbmcjdnjoljhbj)
 
 
 ## Screenshot
@@ -13,9 +13,9 @@
 
 ## Installation
 
-[![Install from chrome web store](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png)](https://chrome.google.com/webstore/detail/gitnotify-for-github/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa)
+[![Install from chrome web store](https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png)](https://chrome.google.com/webstore/detail/gitnotify-for-github/ednpeaemdkcilannlfkbmcjdnjoljhbj)
 
-Install extension from [Chrome Web Store](https://chrome.google.com/webstore/detail/gitnotify-for-github/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa)
+Install extension from [Chrome Web Store](https://chrome.google.com/webstore/detail/gitnotify-for-github/ednpeaemdkcilannlfkbmcjdnjoljhbj)
 
 ## Development
 
