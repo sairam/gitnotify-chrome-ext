@@ -7,7 +7,7 @@ function run() {
 
   var repoURI = window.location.pathname.substring(1);
 
-  if (isTree(repoURI)) {
+  if (isRepo(repoURI)) {
     var ns = document.querySelector('ul.pagehead-actions');
     var liElem = document.getElementById('gitnotify');
 
@@ -37,9 +37,9 @@ function getHTML(repoName, tree) {
   'GitNotifyd</a><li>';
 }
 
-function isTree (uri) {
+function isRepo (uri) {
   var repoURI = uri.split('/');
-  return repoURI.length === 2 || repoURI[2] === 'tree' || repoURI[2] === 'blob';
+  return repoURI.length === 2 || repoURI[2] === 'tree' || repoURI[2] === 'blob' || repoURI[2] === 'graphs' || repoURI[2] === 'pulse' || repoURI[2] === 'wiki' || repoURI[2] === 'projects' || repoURI[2] === 'pulls' || repoURI[2] === 'issues' || repoURI[2] === 'releases' || repoURI[2] === 'tags';
 }
 
 function getTree (uri) {

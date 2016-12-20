@@ -1,7 +1,7 @@
 {
   "name": "GitNotify for Github",
   "short_name": "gitnotify-for-github",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "manifest_version": 2,
   "description": "Track Repositories on Git Notify",
   "homepage_url": "https://github.com/sairam/gitnotify-chrome-ext",
